@@ -22,14 +22,14 @@
 </div>
 <div align="center">    
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
-    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=ffffff" alt="PyQt5">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" alt="Pandas">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" alt="Numpy">
-    <img src="https://img.shields.io/badge/Seaborn-013663?style=for-the-badge&logo=seaborn&logoColor=ffffff" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Seaborn-04151F?style=for-the-badge&logo=seaborn&logoColor" alt="Seaborn">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+    <img src="https://img.shields.io/badge/pytermgui-2274A5?style=for-the-badge" alt="PytermGUI">
 </div>
 <br />
 
