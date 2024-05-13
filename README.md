@@ -7,7 +7,7 @@
 <h3 align="center">PyCrypt - Ai Prediction Engine</h3>
 
   <p align="center">
-    PyScrypt is a GUI / CLI application that uses machine learning to provide
+    PyCrypt is a GUI / CLI application that uses machine learning to provide
     predictions based on a provided dataset, using a variety of algorithms and techniques.
     <br />
     <br />
