@@ -1,0 +1,25 @@
+{
+  "name": "pycrypt",
+  "version": "1.0.0",
+  "description": "Pycrypt is a user-friendly interface for prediction and processing leveraging AI and various machine learning algorithms.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./static/src/base.css -o ./static/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openceJav/pycrypt.git"
+  },
+  "author": "OpenceJav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openceJav/pycrypt/issues"
+  },
+  "homepage": "https://github.com/openceJav/pycrypt#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}

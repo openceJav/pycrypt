@@ -26,7 +26,17 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 
-# TODO: Start PyCrypt Project
+# Flask Lib
+from flask import Flask, request, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello_world():
+    return render_template("index.html")
+
+
+# TODO: Configure Flask Routes
 
 
 # TODO: Complete PyTorch Model

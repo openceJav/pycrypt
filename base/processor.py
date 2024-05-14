@@ -89,7 +89,5 @@ class Processor():
     def load_data(self, filepath: str, datatype: DataType.OTHER):
         pd_instance = None
         
-        
-        
         if not self.__check_file_type(filepath, datatype):
             raise ValueError(f'Invalid File Type: {filepath.split(".")[-1]}')

@@ -37,6 +37,8 @@
 
 ## About The Project
 
+PyCrypt (A very generic name) is a machine learning prediction and processing engine designed with the intention of providing a simple, easy-to-use interface for users to interact with machine learning models and algorithms for prediction analysis. 
+
 ## Installation & Usage
 
 ## Features

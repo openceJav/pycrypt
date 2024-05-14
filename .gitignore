@@ -1,4 +1,4 @@
-# Ignore Python Virtual Environment (venv)
+# Ignore `venv` (venv)
 .venv/
 venv/
 
@@ -8,6 +8,33 @@ pipfile.lock
 poetry.lock
 pyproject.toml
 
-# Ignore Vscode Settings
+# Ignore 'vscode' Settings
 .vscode/
 .vscode-server/
+
+# Ignore `node_modules` (node_modules)
+node_modules/
+node_modules
+/node_modules
+
+# Ignore `dist` (dist)
+dist/
+/dist
+
+# Ignore `build` (build)
+build/
+/build
+
+# Ignore `__pycache__` (__pycache__)
+__pycache__/
+
+# Others to Ignore
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
