@@ -35,7 +35,7 @@
 
 ## Table of Contents
 
-> [!WARNING] Quick Disclaimer
+> [!WARNING]
 > This project is still in `development` and is not yet ready for use, if you are looking to become a contributing member of this project refer to the [Contributing](#contributing) section for more information.
 
 ## TODOs & Potential Features
