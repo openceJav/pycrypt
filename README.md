@@ -7,7 +7,7 @@
 <h3 align="center">PyCrypt - Ai Prediction Engine</h3>
 
   <p align="center">
-    PyCrypt is a GUI / CLI application that uses machine learning to provide
+    PyCrypt is a Flask application that uses machine learning to provide
     predictions based on a provided dataset, using a variety of algorithms and techniques.
     <br />
     <br />
@@ -35,6 +35,13 @@
 
 ## Table of Contents
 
+> [!WARNING] Quick Disclaimer
+> This project is still in `development` and is not yet ready for use, if you are looking to become a contributing member of this project refer to the [Contributing](#contributing) section for more information.
+
+## TODOs & Potential Features
+
+Information about the project, including some potential features to include, and some TODOs that we need to complete can be found in [this](./TODOs.md) file.
+
 ## About The Project
 
 PyCrypt (A very generic name) is a machine learning prediction and processing engine designed with the intention of providing a simple, easy-to-use interface for users to interact with machine learning models and algorithms for prediction analysis. 
@@ -46,3 +53,7 @@ PyCrypt (A very generic name) is a machine learning prediction and processing en
 ## Contributing
 
 ## License
+
+## Contact
+
+## Acknowledgements
