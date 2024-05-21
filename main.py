@@ -27,9 +27,12 @@ import torch.nn as nn
 import torch.optim as optim
 
 # Flask Lib
-from flask import Flask, request, render_template
+from flask import Flask, jsonify, make_response, send_from_directory, render_template, request
+from flask_cors import CORS
+from flask_swagger_ui import get_swaggerui_blueprint
 
 app = Flask(__name__)
+CORS(app=app)
 
 @app.route("/")
 def hello_world():
