@@ -40,8 +40,6 @@ def hello_world():
 
 
 # TODO: Configure Flask Routes
-
-
 # TODO: Complete PyTorch Model
 # TODO: Complete PyTorch Training
 # TODO: Complete PyTorch Testing

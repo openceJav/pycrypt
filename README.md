@@ -20,7 +20,17 @@
     <a href="/url">Documentation</a>
   </p>
 </div>
-<div align="center">    
+<div align="center"> 
+    <!-- Pycrypt Status Section --->
+    <img src="https://img.shields.io/badge/Version-0.0.1-blue" alt="Version">
+    <img src="https://img.shields.io/badge/Contributors-1-orange" alt="Contributors">
+    <img src="https://img.shields.io/badge/Issues-0%20open%2C%200%20closed-blue" alt="Issues">
+    <img src="https://img.shields.io/badge/PRs-0%20open%2C%200%20closed-blue" alt="Pull Requests">
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</div>
+<br />
+<div align="center">  
+    <!-- Badges & Tools Section --->  
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" alt="Pandas">
@@ -51,6 +61,8 @@ PyCrypt (A very generic name) is a machine learning prediction and processing en
 ## Features
 
 ## Contributing
+
+![Pycrypt-Contrib](https://repobeats.axiom.co/api/embed/a45085a1ae2c5e4c7c28dd4bbe775aa933d41c5d.svg "Pycrypt Contributors")
 
 ## License
 
