@@ -12,11 +12,11 @@
     <br />
     <br />
     <a href="/url">View Demo</a>
-    ✧
+    ✱
     <a href="/url">Report Bug</a>
-    ✧
+    ✱
     <a href="/url">Request Feature</a>
-    ✧
+    ✱
     <a href="/url">Documentation</a>
   </p>
 </div>
