@@ -4,7 +4,7 @@
     <img src="./assets/pycrypt-logo.png" alt="Pycrypt Logo" height="200">
   </a>
 
-<h3 align="center">PyCrypt - Ai Prediction Engine</h3>
+<h3 align="center">PyCrypt - AI Prediction Engine</h3>
 
   <p align="center">
     PyCrypt is a Flask application that uses machine learning to provide
@@ -43,10 +43,20 @@
 </div>
 <br />
 
-## Table of Contents
-
 > [!WARNING]
 > This project is still in `development` and is not yet ready for use, if you are looking to become a contributing member of this project refer to the [Contributing](#contributing) section for more information.
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [TODOs \& Potential Features](#todos--potential-features)
+- [About The Project](#about-the-project)
+- [Installation \& Usage](#installation--usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## TODOs & Potential Features
 
@@ -58,7 +68,11 @@ PyCrypt (A very generic name) is a machine learning prediction and processing en
 
 ## Installation & Usage
 
+// TODO
+
 ## Features
+
+// TODO
 
 ## Contributing
 
@@ -66,6 +80,12 @@ PyCrypt (A very generic name) is a machine learning prediction and processing en
 
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 ## Contact
 
+// TODO
+
 ## Acknowledgements
+
+// TODO
